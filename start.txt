@@ -1,0 +1,4 @@
+.venv\Scripts\activate
+python -m main
+
+pip install -r /path/to/requirements.txt
